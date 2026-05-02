@@ -1,0 +1,11 @@
+venv/
+pycache/
+.pyc
+.ipynb_checkpoints/
+data/
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
+*.pt
+*.pth
+*.h5
